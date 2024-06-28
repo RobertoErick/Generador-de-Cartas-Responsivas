@@ -1,0 +1,6 @@
+#ignora todos los archivos Word
+*.docx
+
+#ignora las carpetas que tenemos
+Cartas Responsivas
+Cartas Recepción
